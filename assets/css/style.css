@@ -60,6 +60,14 @@ h2
     border: none;
 }
 
+.text-center {
+    color: var(--primary-color);
+}
+.me-2 {
+    color: var(--primary-color);
+}
+
+
 
 --tea-green: #d0efb1ff;
 --celadon: #b3d89cff;
