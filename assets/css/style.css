@@ -42,6 +42,12 @@ h2
     
 }
 
+.btn {
+    background-color: var(--primary-color);
+    : center;
+    border: none;
+}
+
 
 --tea-green: #d0efb1ff;
 --celadon: #b3d89cff;
