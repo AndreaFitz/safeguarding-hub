@@ -1,5 +1,5 @@
 :root   {
-    --primary-color: rgb(44, 19, 134);
+    --primary-color: #2c1386;
     --secondary-color: #d4d9f7 ;
     --accent-color: #ffffff;
 }  
@@ -41,7 +41,7 @@ h2
 /* reduce card size */
 
 .card-small {
-  max-width: 16rem;
+  max-width: 18rem;
   margin-left: auto;
   margin-right: auto;
 }
