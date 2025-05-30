@@ -1,9 +1,10 @@
 :root   {
     --primary-color: rgb(44, 19, 134);
-    --secondary-color: #d4d9f7;
+    --secondary-color: #d4d9f7 ;
     --accent-color: #ffffff;
 }  
 
+/* makes the navbar the same color as the background */
 .custom-navbar {
   background-color: var(--secondary-color)
 }
@@ -12,7 +13,11 @@
     color: var(--primary-color);
 }
 
-
+.nav-link {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+    
 body{
     background-color: var(--secondary-color);
 }
@@ -33,7 +38,7 @@ h2
     margin-top: 20px;
 }
 
-/* reduce image size */
+/* reduce card size */
 
 .card-small {
   max-width: 16rem;
@@ -54,7 +59,7 @@ h2
     color: var(--primary-color);
     
 }
-
+/* card buttons*/
 .btn {
     background-color: var(--primary-color);
     border: none;
