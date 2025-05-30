@@ -4,6 +4,10 @@
     --accent-color: rgb(255, 255, 255);
 }  
 
+.custom-navbar {
+  background-color: var(--secondary-color)
+}
+
 .ms-2{
     color: var(--primary-color);
 }
@@ -28,11 +32,16 @@ h2
     font-size: large;   
     margin-top: 20px;
 }
-
-
-.custom-navbar {
-  background-color: var(--secondary-color)
+/* centres card titles */
+.card-title{
+    text-align: center;
 }
+ /* centres card text */
+.card-text{
+    text-align: center;
+    
+}
+
 
 --tea-green: #d0efb1ff;
 --celadon: #b3d89cff;
