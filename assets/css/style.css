@@ -1,7 +1,7 @@
 :root   {
     --primary-color: rgb(44, 19, 134);
-    --secondary-color: rgb(191, 241, 214);
-    --accent-color: rgb(255, 255, 255);
+    --secondary-color: #d4d9f7;
+    --accent-color: #ffffff;
 }  
 
 .custom-navbar {
@@ -32,13 +32,26 @@ h2
     font-size: large;   
     margin-top: 20px;
 }
-/* centres card titles */
+
+/* reduce image size */
+
+.card-small {
+  max-width: 16rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+    
+   /* centres card titles */
 .card-title{
     text-align: center;
+    color: var(--primary-color);
+    font-weight: bold;
 }
  /* centres card text */
 .card-text{
     text-align: center;
+    color: var(--primary-color);
     
 }
 
