@@ -26,7 +26,7 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
     1. User friendly navigation and responsive design
     2. Testimonials
     3. Simple and intuitive layout
-    4. Principples of Safeguarding
+    4. Principles of Safeguarding
     5. Recognise and understand what safeguarding is
 
 
@@ -52,20 +52,25 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 - **Footer**  
   Contains copyright, privacy policy, terms of service, and social media links.
 
-- **Gallery**  
-  (Describe if you have a gallery section, otherwise remove.)
+- **Newsletter Page**  
+  Link to newsletter
 
-- **Sign Up Page**  
-  (Describe if you have a sign-up page, otherwise remove.)
+- **Resources Page**
+  Link to Definitions of the Principles - also the link from the Home page on each card
+
+- **Kind Words Page**
+  Testimonials from site users
+
+- **Reach Out Page**  
+  Simple form to contact the site
 
 ---
 
 ### Features Left to Implement
 
-- Add more detailed guides and resources for each safeguarding principle.
+- Add more detailed guides and resources.
 - User authentication and personalized dashboards.
 - Interactive quizzes or self-assessment tools.
-- (Add or remove based on your project plan.)
 
 ---
 
@@ -86,16 +91,14 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ## Unfixed Bugs
 
-- (List any known bugs or issues here, or state "No known bugs.")
+- None known
 
 ---
 
 ## Deployment
 
-- The site is deployed on [GitHub Pages/Netlify/Other] at: [your deployment link]
-- To run locally:  
-  1. Clone the repository  
-  2. Open `index.html` in your browser
+- The site is deployed on GitHub Pages at: https://andreafitz.github.io/safeguarding-hub/
+- The site was deployed early in the development stage to check fundamentals worked.
 
 ---
 
@@ -103,6 +106,7 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 - Bootstrap for layout and components
 - Font Awesome for icons
+- Co-pilot for images and definitions
 - (List any other libraries, frameworks, or contributors)
 
 ---
