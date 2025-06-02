@@ -79,6 +79,13 @@ p {
     color: var(--primary-color);
 }
 
+.list-unstyled {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    color: var(--primary-color)
+}
+
 
 
 --tea-green: #d0efb1ff;
