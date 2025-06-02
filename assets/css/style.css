@@ -38,6 +38,13 @@ h2
     margin-top: 20px;
 }
 
+p {
+    color: var(--primary-color);
+    text-align: center;
+    font-size: medium;
+    margin-top: 20px;
+}
+
 /* reduce card size */
 
 .card-small {

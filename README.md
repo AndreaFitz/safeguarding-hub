@@ -4,6 +4,9 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ---
 
+## Wireframes
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -25,7 +28,7 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
   Responsive navbar with dropdown menus for easy navigation across the site.
 
 - **Landing Page**  
-  Introduction to safeguarding and its importance.
+  Simple introduction to safeguarding, what it means and its importance.
 
 - **Key Principles Cards**  
   Visually engaging cards explaining each safeguarding principle with supporting images and descriptions.
