@@ -9,6 +9,9 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ## Table of Contents
 
+    user stories
+    UX design
+
 - [Features](#features)
 - [Features Left to Implement](#features-left-to-implement)
 - [Testing](#testing)
@@ -19,6 +22,13 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 - [Media](#media)
 
 ---
+## User Stories
+
+
+
+## UX design
+    Colours - Earth colours chosen for a calming feel to the website. Blue and brown are often associated with nature, representing the earth and the sky. This natural pairing feels harmonious.
+    Font - Montserrat is relaxed, welcoming, friendly, easy on the eye for all ages, the neuro-diverse and people with learning difficulties.
 
 ## Features
 
