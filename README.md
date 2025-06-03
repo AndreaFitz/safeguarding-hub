@@ -6,6 +6,10 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ## Wireframes
 
+![Homepage Wireframe](assets/images/laptop-wireframe.png)
+![Homepage Wireframe](assets/images/tablet-wireframe.png) 
+![Homepage Wireframe](assets/images/mobile-wireframe.png)
+
 
 ## Table of Contents
 
