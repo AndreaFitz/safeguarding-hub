@@ -73,7 +73,8 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 ### Features Left to Implement
 
 - Add more detailed guides and resources.
-- User authentication and personalized dashboards.
+- Modal pop-up for Submit form on Contact page
+- Logo to link to Home page
 - Interactive quizzes or self-assessment tools.
 
 ---
@@ -83,6 +84,8 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 - Manual testing on Chrome, Firefox, and Edge for responsiveness and usability.
 - All links and dropdowns tested for correct navigation.
 - Cards and buttons tested for accessibility and clarity.
+- Lighthouse testing completed
+![Lightouse testing](assets/images/lighthouse-testing.png)
 
 ---
 
@@ -111,12 +114,12 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 - Bootstrap for layout and components
 - Font Awesome for icons
 - Co-pilot for images and definitions
-- (List any other libraries, frameworks, or contributors)
+- Squoosh for image compression
 
 ---
 
 ## Media
 
-- All images and icons are either created by the author or sourced from free-to-use resources (specify sources if needed).
+- All images and icons are either created by the author or sourced from free-to-use resources.
 
 
