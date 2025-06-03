@@ -73,7 +73,7 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 - Add more detailed guides, resources, quizzes, self-assessment tools
 - Modal pop-up for Submit form on Contact page
-- Logo to link to Home page
+
 
 
 ---
