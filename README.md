@@ -13,9 +13,8 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ## Table of Contents
 
-### user stories
-### UX design
-
+- [User Stories](#User-stories)
+- [UX Design](#UX-design)
 - [Features](#features)
 - [Features Left to Implement](#features-left-to-implement)
 - [Testing](#testing)
@@ -27,18 +26,18 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ---
 ## User Stories
-    1. User friendly navigation and responsive design
-    2. Testimonials
-    3. Simple and intuitive layout
-    4. Principles of Safeguarding
-    5. Recognise and understand what safeguarding is
+-  User friendly navigation and responsive design
+-  Testimonials
+-  Simple and intuitive layout
+-  Principles of Safeguarding
+-  Recognise and understand what safeguarding is
 
 
-## UX design
+## UX Design
 - **Colours**
     Earth colours chosen for a calming feel to the website. Blue and brown are often associated with nature, representing the earth and the sky. This natural pairing feels harmonious.
 - **Font**
-    Montserrat is relaxed, welcoming, friendly, easy on the eye for all ages, the neuro-diverse and people with learning difficulties.
+    Montserrat is relaxed, welcoming, friendly and easy on the eye for all ages, the neuro-diverse and people with learning difficulties.
 
 ## Features
 
@@ -54,7 +53,7 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
   Visually engaging cards explaining each safeguarding principle with supporting images and descriptions.
 
 - **Footer**  
-  Contains copyright, privacy policy, terms of service, and social media links.
+  Contains copyright and social media links.
 
 - **Newsletter Page**  
   Link to newsletter
@@ -70,12 +69,12 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 
 ---
 
-### Features Left to Implement
+## Features Left to Implement
 
-- Add more detailed guides and resources.
+- Add more detailed guides, resources, quizzes, self-assessment tools
 - Modal pop-up for Submit form on Contact page
 - Logo to link to Home page
-- Interactive quizzes or self-assessment tools.
+
 
 ---
 
@@ -105,7 +104,12 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 ## Deployment
 
 - The site is deployed on GitHub Pages at: https://andreafitz.github.io/safeguarding-hub/
+
 - The site was deployed early in the development stage to check fundamentals worked.
+
+### Running Locally
+1. Clone the repository
+2. Open `index.html` in your browser
 
 ---
 
@@ -114,6 +118,7 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 - Bootstrap for layout and components
 - Font Awesome for icons
 - Co-pilot for images and definitions
+- GitHub co-pilot for code suggestions
 - Squoosh for image compression
 
 ---
@@ -121,5 +126,9 @@ Safeguarding Hub is a website designed to help users quickly identify the key pr
 ## Media
 
 - All images and icons are either created by the author or sourced from free-to-use resources.
+
+---
+
+
 
 
